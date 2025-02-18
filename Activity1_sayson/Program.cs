@@ -1,5 +1,11 @@
 ﻿using System;
-
+/*Create a simple temperature cpnversion program in c#. the program willl have a menu. The program flow will be something like this:
+Welcome to Temperature Conversion!
+[1.] C to F
+[2.] F to C
+[3.] K to C
+[4.] F to K
+select option: 1*/
 namespace Activity1_sayson {
     class Program
 {
